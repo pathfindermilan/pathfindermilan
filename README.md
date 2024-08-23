@@ -1,9 +1,5 @@
 # 💫 About Me:
-🔭 I am currently working on the HACK THE LOOP Hackathon. <br>👯 I’m looking to collaborate on LLM and AI projects<br>🌱 I’m currently learning Rust and Kubernetes<br>💬 Ask me about LLMs, AI research, and collaboration opportunities<br>
-
-Feel free to reach out to me on the following social media platforms
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/milan-v-a02ab7192)
+🔭 I am currently working on the TIDB Hackathon. <br>👯 I’m looking to collaborate on LLM and AI projects<br>🌱 I’m currently learning AWS and Kubernetes<br>💬 You can ask me about LLMs, AI research, and collaboration opportunities<br>
 
 
 # 💻 Tech Skills:
