@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I am currently working on the ElevenLabs Hackathon. <br>👯 I’m looking to collaborate on LLM and AI projects<br>🌱 I’m currently learning AWS and Kubernetes<br>💬 You can ask me about LLMs, AI research, and collaboration opportunities<br>
+🔭 I am currently working on the RedHat & Intel AI Hackathon. <br>👯 I’m looking to collaborate on LLM and AI projects<br>🌱 I’m currently learning AWS and Kubernetes<br>💬 You can ask me about LLMs, AI research, and collaboration opportunities<br>
 
 
 # 💻 Tech Skills:
