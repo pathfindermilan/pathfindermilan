@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I am currently working on the RedHat & Intel AI Hackathon. <br>👯 I’m looking to collaborate on LLM and AI projects<br>🌱 I’m currently learning AWS and Kubernetes and Terraform on KodeKloud and Udemy<br>💬 You can ask me about LLMs, AI research, and collaboration opportunities<br>
+🔭 I am currently working on the RedHat AI Hackathon, ARIA hackathon and GCP Hackathon <br>👯 I’m looking to collaborate on LLM and AI projects<br>🌱 I’m currently learning GO Lang, AWS, Kubernetes and Terraform on KodeKloud and Udemy<br>💬 You can ask me about LLMs, AI research, and collaboration opportunities<br> 📢 I also practise Red Hat hacking on dreadnode and write CUDA kernels. <br>
 
 
 # 💻 Tech Skills:
@@ -15,7 +15,7 @@
     <img src="https://skillicons.dev/icons?i=django,flask,fastapi,mysql,postgres,mongodb" />
     <br>
     <!-- Row 4: -->
-    <img src="https://skillicons.dev/icons?i=c,cpp,python,tensorflow,pytorch,opencv" />
+    <img src="https://skillicons.dev/icons?i=c,cpp,python,golang,tensorflow,pytorch" />
     <br>
 </div>
  
