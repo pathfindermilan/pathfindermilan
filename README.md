@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I am currently working on the RedHat AI Hackathon, ARIA hackathon and GCP Hackathon <br>👯 I’m looking to collaborate on LLM and AI projects<br>🌱 I’m currently learning GO Lang, AWS, Kubernetes and Terraform on KodeKloud and Udemy<br>💬 You can ask me about LLMs, AI research, and collaboration opportunities<br> 📢 I also practise Red Hat hacking on dreadnode and write CUDA kernels. <br>
+🔭 I am currently working on the RedHat AI Hackathon, ARIA hackathon and GPT-4o Hackathon <br>👯 I’m looking to collaborate on LLM and AI projects<br>🌱 I’m currently learning GO Lang, AWS, Kubernetes and Terraform on KodeKloud and Udemy<br>💬 You can ask me about LLMs, AI research, and collaboration opportunities<br> 📢 I also practise Red Hat hacking on dreadnode and write CUDA kernels. <br>
 
 
 # 💻 Tech Skills:
