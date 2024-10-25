@@ -6,7 +6,7 @@
 <br/>
 <div >
     <!-- Row 1: -->
-    <img src="https://skillicons.dev/icons?i=bash,linux,gcp,aws,kubernetes,terraform" />
+    <img src="https://skillicons.dev/icons?i=bash,linux,gcp,aws,kubernetes,docker" />
     <br>
     <!-- Row 2: -->
     <img src="https://skillicons.dev/icons?i=gitlab,github,githubactions,jenkins,prometheus,grafana" />
