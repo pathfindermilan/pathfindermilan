@@ -1,12 +1,12 @@
 # 💫 About Me:
-🔭 I am currently working on the RedHat AI Hackathon, ARIA hackathon and GPT-4o Hackathon <br>👯 I’m looking to collaborate on LLM and AI projects<br>🌱 I’m currently learning GO Lang, AWS, Kubernetes and Terraform on KodeKloud and Udemy<br>💬 You can ask me about LLMs, AI research, and collaboration opportunities<br> 📢 I also practise Red Hat hacking on dreadnode and write CUDA kernels. <br>
+🔭 I am currently working on project Intervuo <br>👯 I’m looking to collaborate on LLM and AI projects<br>🌱 I’m currently learning GO Lang, Rust, Kubernetes and Triton<br>💬 You can ask me about LLMs, AI research, and collaboration opportunities<br> 📢 I also practise Red Hat hacking on dreadnode and write CUDA kernels. <br>
 
 
 # 💻 Tech Skills:
 <br/>
 <div >
     <!-- Row 1: -->
-    <img src="https://skillicons.dev/icons?i=bash,linux,gcp,aws,kubernetes,docker" />
+    <img src="https://skillicons.dev/icons?i=linux,redhat,docker,kubernetes,openshift,gcp" />
     <br>
     <!-- Row 2: -->
     <img src="https://skillicons.dev/icons?i=gitlab,github,githubactions,jenkins,prometheus,grafana" />
@@ -15,7 +15,7 @@
     <img src="https://skillicons.dev/icons?i=django,flask,fastapi,mysql,postgres,mongodb" />
     <br>
     <!-- Row 4: -->
-    <img src="https://skillicons.dev/icons?i=c,cpp,python,golang,tensorflow,pytorch" />
+    <img src="https://skillicons.dev/icons?i=c,cpp,golang,rust,python,raspberrypi" />
     <br>
 </div>
  
