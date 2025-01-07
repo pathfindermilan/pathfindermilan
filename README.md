@@ -1,5 +1,6 @@
 # 💫 About Me:
-🔭 I am currently working on project Intervuo <br>👯 I’m looking to collaborate on LLM and AI projects<br>🌱 I’m currently learning GO Lang, Rust, Kubernetes and Triton<br>💬 You can ask me about LLMs, AI research, and collaboration opportunities<br> 📢 I also practise Red Hat hacking on dreadnode and write CUDA kernels. <br>
+🔭 I am currently working on project Intervuo <br>👯 I’m looking to collaborate on LLM and AI projects<br>🌱 I’m currently learning GO Lang, Rust, Kubernetes and Triton<br>💬 You can ask me about LLMs, AI research, and collaboration opportunities<br> 📢 I also practise Red Hat hacking on dreadnode and write CUDA kernels. <br> <br> The most recent paper I have read: [Byte Latent Transformer](https://ai.meta.com/research/publications/byte-latent-transformer-patches-scale-better-than-tokens/) <br> My next paper reading will be: [Large Concept Models](https://arxiv.org/abs/2412.08821) <br>
+Last change 07th of Jan 25
 
 
 # 💻 Tech Skills:
